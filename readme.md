@@ -11,34 +11,24 @@
 
 ## Installation:
 ### Clone this repo:
-
-    ´´´
+    
     git clone https://github.com/aluanluci/overinstall/
 
-    ´´´
 ### Setup
 
-    '''
-    cd Overinstall/
+    cd Overinstall/;
     chmod +x overinstall.sh
-    '''
 
 ## Usage
 
 ### Simple script
-    ´´´
     ./overinstall.sh
-    ´´´
 ### Direct Overinstall
-    '''
     ./overinstall <package> <apk_path>
-    '''
 Replace <strong>\<package></strong> and <strong>\<apk_path></strong> with package name of installed app and new apk file path, respectively.
 
 ### Help
-    '''
     ./overinstall --help
-    '''
 
 
 ## Caution:
