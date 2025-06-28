@@ -9,6 +9,13 @@
 * Automation of tasks
 * And more...
 
+## Requeriments:
+* Sudo
+* Android device
+* Terminal with Bash interpreter
+* Apk to be installed
+* And a brain
+
 ## Installation:
 ### Clone this repo:
     
@@ -22,9 +29,9 @@
 ## Usage
 
 ### Simple script
-    ./overinstall.sh
+    sudo ./overinstall.sh
 ### Direct Overinstall
-    ./overinstall <package> <apk_path>
+    sudo ./overinstall <package> <apk_path>
 Replace <strong>\<package></strong> and <strong>\<apk_path></strong> with package name of installed app and new apk file path, respectively.
 
 ### Help
